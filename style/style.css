@@ -284,6 +284,7 @@ body {
   display: flex;
   width: 584px;
   height: 232px;
+  min-height: 232px;
   padding-left: 50px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -530,7 +531,7 @@ body {
     width: 90%;
     margin-left: 5%;
     margin-top: 0;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
   .container_hello .conoce-btn {
     font-size: 16px;
@@ -593,6 +594,7 @@ body {
     padding-left: 0;
     margin-left: 0;
     margin-top: 0px;
+    margin-bottom: 20px;
   }
   .contenedor-celular .contenedor-texto .parrafo-celular {
     width: 100%;
@@ -612,6 +614,7 @@ body {
     width: 100%;
   }
   .title-temas {
+    margin-left: 10%;
     font-size: 36px;
     width: 250px;
   }
@@ -636,6 +639,7 @@ body {
   .contenedor-novedades .boton {
     width: 90%;
     height: 56px;
+    font-size: 16px;
     letter-spacing: 0;
     margin-top: 50px;
   }
